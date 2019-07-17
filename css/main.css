@@ -20,6 +20,9 @@
         text-shadow: 0 0 4px #000; /* horizontal-offset vertical-offset 'blur' colour */
         -moz-text-shadow: 0 0 4px #000;
         -webkit-text-shadow: 0 0 4px #000;
+		background-color: #000;
+		color: #fff;
+		border: gray;
 	}
 
 	article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section {
